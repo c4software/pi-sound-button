@@ -48,6 +48,7 @@ pcm.!default {
 ## Run the program
 
 - reboot
+- ```cd pi-sound-button```
 - ```node main.js``` 
 - Press the button
 - Profit !
