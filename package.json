@@ -1,16 +1,15 @@
 {
-  "name": "button-sound",
+  "name": "pi-button-sound",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "rpi-gpio": "^0.9.1",
-    "rpi-gpio-buttons": "^1.0.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Valentin Brosseau",
   "license": "ISC"
 }
